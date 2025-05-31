@@ -1,0 +1,860 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Open+Sans:300,400,600,700,800
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700|Poppins:300,400,500,600,700
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://htmldemo.net/chasmish/chasmish/about.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\about.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/blog-details.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\blog-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/blog-sidebar.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/blog-three-column.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\blog-three-column.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/blog-two-column.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\blog-two-column.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/cart.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\cart.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/checkout.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\checkout.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/compare.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\compare.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/contact.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\contact.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/animation.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\animation.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/bootstrap.min.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/custom.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\custom.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/font-awesome.min.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/nice-select.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\nice-select.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/odometer.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\odometer.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/plugins.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\plugins.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/range-slider.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\range-slider.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/slick.min.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\slick.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/style.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\style.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/css/themify-icons.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/slick.eot
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/slick.eot?
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/slick.svg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/slick.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/slick.woff
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/themify.eot?
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/themify.eot?-fvbane
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/themify.svg?-fvbane
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/themify.ttf?-fvbane
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\themify.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/chasmish/chasmish/fonts/themify.woff?-fvbane
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/ajax-loader.gif
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/banner-1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/banner-2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/banner-3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/banner-4.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/banner-5.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\banner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/banner-6.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\banner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/banner-7.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\banner-7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/instagram1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\instagram1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/instagram2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\instagram2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/instagram3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\instagram3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/instagram4.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\instagram4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/instagram5.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\instagram5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/banner/sidebar-banner.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\banner\sidebar-banner.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-10.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-11.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-11.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-12.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-12.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-4.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-5.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-6.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-7.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-8.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/bg/bg-image-9.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\bg\bg-image-9.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/about_welcome.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\about_welcome.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/blog-1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/blog-md1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\blog-md1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/blog-md2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\blog-md2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/blog-md3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\blog-md3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/blog-md4.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\blog-md4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/blog-md5.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\blog-md5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/clint1.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\clint1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/post1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\post1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/post2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\post2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/post3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\post3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/related-post-1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\related-post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/related-post-2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\related-post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/related-post-3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\related-post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/review1.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\review1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/review2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\review2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/review3.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\review3.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/blog/video_block.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\blog\video_block.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/favicon.ico
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icon.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icon.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/8.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\8.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/add_to_cart.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\add_to_cart.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/cdown_layer_img.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\cdown_layer_img.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/compare_icon.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\compare_icon.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/icon.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\icon.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/icon2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\icon2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/quick_view.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\quick_view.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/shape.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\shape.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_1.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_3.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_3.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_4.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_4.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_5.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_5.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_6.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_6.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_7.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_7.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/ship_icon_8.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\ship_icon_8.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/icons/wishlist_icon.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\icons\wishlist_icon.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/logo/2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\logo\2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/logo/logo1.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\logo\logo1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/big-img-2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\big-img-2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/big-img-3.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\big-img-3.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/big-img.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\big-img.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/coundown_pro_img.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\coundown_pro_img.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list1.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list3.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list3.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list4.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list4.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list5.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list5.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list6.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list6.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list7.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list7.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list8.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list8.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/list9.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\list9.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-10.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-10.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-11.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-11.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-12.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-12.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-13.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-13.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-4.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-5.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-6.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-7.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-8.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-8.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/product-9.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\product-9.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/sm1.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\sm1.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/sm2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\sm2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/img/product/sm3.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\img\product\sm3.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/chasmish/index-2.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\index-2.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/index-3.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\index-3.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/index.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\index.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/js/bootstrap.min.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/chasmish/js/main.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\js\main.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/chasmish/js/plugins.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/chasmish/js/popper.min.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/chasmish/js/vendor/jquery.min.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\js\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/chasmish/js/vendor/modernizr-3.6.0.min.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\js\vendor\modernizr-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/chasmish/login-register.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\login-register.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/my-account.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\my-account.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/shop-grid.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\shop-grid.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/shop-list.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\shop-list.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/single-product.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\single-product.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/chasmish/wishlist.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\chasmish\wishlist.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/index.html
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\index.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/chasmish/p2/css/bootstrap.min.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/p2/css/et-line.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\css\et-line.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/p2/css/font-awesome.min.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/p2/css/plugins.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\css\plugins.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/p2/css/responsive.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\css\responsive.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/et-line.eot
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/et-line.eot?
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/et-line.svg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/et-line.ttf
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\et-line.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/et-line.woff
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\et-line.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://htmldemo.net/chasmish/p2/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/about.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\about.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/blog-details.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\blog-details.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/blog-sidebar.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\blog-sidebar.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/blog-three.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\blog-three.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/blog-two.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\blog-two.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/cart.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\cart.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/checkout.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\checkout.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/compare.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\compare.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/contact.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/h1.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\h1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/h2.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\h2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/h3.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\h3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/hero.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/login.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\login.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/logo.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\logo.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/logo2.png
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\logo2.png
+Content Type: image/png
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/my-account.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\my-account.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/shop-grid.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\shop-grid.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/shop-list.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\shop-list.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/shop-single.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\shop-single.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/chasmish/wishlist.jpg
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\chasmish\wishlist.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldemo.net/chasmish/p2/img/favicon.ico
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://htmldemo.net/chasmish/p2/js/ajax-mail.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\js\ajax-mail.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/p2/js/bootstrap.min.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/p2/js/main.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\js\main.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/p2/js/plugins.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/p2/js/vendor/jquery.min.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\js\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/p2/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\js\vendor\modernizr-2.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/chasmish/p2/style.css
+File Name: C:\Users\dimul\OneDrive\Рабочий стол\Downloaded Web Sites\htmldemo.net\chasmish\p2\style.css
+Content Type: text/css
+
